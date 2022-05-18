@@ -1,0 +1,20 @@
+.banner {
+	background-image: linear-gradient(315deg, rgba(245, 208, 32, 0.8) 0%, rgba(245, 56, 3, 0.2) 50%), url(../../images/acceuil.jpeg);
+	padding: 150px 150px;
+	background-size: cover;
+	background-position: center:
+	width : 150px;
+	height : 300px;
+}
+
+
+.banner h1 {
+	font-size:50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
